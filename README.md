@@ -23,7 +23,7 @@ sh setup.sh
 ### run the model
 
 ```sh
-python3 detect.py
+python3 detect_mod.py
 ```
 
 
