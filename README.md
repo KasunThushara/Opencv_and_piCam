@@ -12,8 +12,10 @@ git clone https://github.com/KasunThushara/Opencv_and_piCam
 
 Then use our script to install a couple Python packages, and download the EfficientDet-Lite model:
 
+
 ```sh
-cd https://github.com/KasunThushara/Opencv_and_piCam/ObjectDetection
+cd Opencv_and_piCam/ObjectDetection
+
 ```
 ### The script install the required dependencies and download the TFLite models.
 
